@@ -7,7 +7,7 @@ Gameplay & Engine programmer student
 *   🌍  I'm based in Paris
 *   🧠  I'm learning at Isart Digital
 *   ✉️  You can contact me at [breizhbienvenu@gmail.com](mailto:breizhbienvenu@gmail.com)
-*   👨‍💻 Here is my portfolio [breizhbienv.github.io](breizhbienv.github.io)
+*   👨‍💻 Here is my [portfolio](https://breizhbienv.github.io/)
                  
 <h3 align="left">Connect with me:</h3>
 <p align="left">

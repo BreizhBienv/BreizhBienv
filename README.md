@@ -4,7 +4,7 @@ Hi 👋 My name is Gauthier Bienvenu
 Gameplay & Engine programmer
 ----------------------------
 
-*   🌍  I'm based in Montréal
+*   🌍  I'm based in Paris
 *   ✉️  You can contact me at [breizhbienvenu@gmail.com](mailto:breizhbienvenu@gmail.com)
 *   🧠  I'm learning at Isart Digital
 
